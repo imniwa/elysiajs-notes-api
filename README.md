@@ -1,9 +1,11 @@
-# Elysia with Bun runtime
+# Notes API - Elysiajs
 
 ## Getting Started
-To get started with this template, simply paste this command into your terminal:
+install packages
 ```bash
-bun create elysia ./elysia-example
+bun install
+cp .env.example .env
+bun run start
 ```
 
 ## Development
